@@ -34,7 +34,7 @@ Acreditamos no poder da colaboração! Nossa equipe de desenvolvedores, consulto
 ## 📞 Entre em Contato!
 Quer saber mais sobre nossos serviços ou colaborar com nossos projetos?
 - **Site**: [leconni.com](https://leconni.com.br)
-- **E-mail**: leconni@leconni.com
+- **E-mail**: leconni@leconni.com.br | contato@leconni.com.br | suporte@leconni.com.br
 - **Telefone**: +55 (31) 9 8465-9400
 
 Acompanhe nossos projetos e venha proteger o que é seu com a Leconni Marcas & Patentes!
